@@ -1,9 +1,9 @@
 {
   "codes": [
-    "sorry4longmaintenance",
-    "warriorsaga",
-    "update1",
-    "ballin!",
-    "2.5mgroup!"
+    { "code": "sorry4longmaintenance", "expires": 1786579200 },
+    { "code": "warriorsaga", "expires": 1786579200 },
+    { "code": "update1", "expires": 1786752000 },
+    { "code": "ballin!", "expires": 1786579200 },
+    { "code": "2.5mgroup!", "expires": 1786752000 }
   ]
 }
